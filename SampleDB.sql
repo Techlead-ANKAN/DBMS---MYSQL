@@ -4,6 +4,7 @@ CREATE DATABASE OnlineBookstore;
 USE OnlineBookstore;
 
 
+
 CREATE TABLE Books (
     BookID INT PRIMARY KEY,
     Title VARCHAR(100),
